@@ -4190,7 +4190,6 @@ local aa, ab, ad, ae, af = {
     License = 'MIT',
     Repository = 'https://github.com/depthso/Dear-ReGui/',
     Debug = false,
-    PrefabsId = 71968920594655,
     DefaultTitle = 'ReGui',
     ContainerName = 'ReGui',
     DoubleClickThreshold = 0.3,
